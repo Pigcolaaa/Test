@@ -5,6 +5,7 @@
 #include<windows.h>
 #define DIS 22
 #define BLAN 9
+
 typedef struct bird
 {
     COORD pos;
